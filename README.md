@@ -7,7 +7,7 @@ PART 1: THE APPLICATION
 
 How to use this example
 
-1) Just clone the repository to you local directory or git clone it.
+1) Just download the repository to your local directory or git clone it.
 
 2) Set the local host in host file 
 
@@ -30,9 +30,9 @@ For ex: here i have clone it on my D:/projects/url-shortner-in-php-by-swapnil
 	</Directory>
 </VirtualHost> 
 
-4) Create the table that is in database folder 
+4) Run the script in database folder to create the table to store url details 
 
-5) restart the apache server and run the local host url like 
+5) Restart the local apache server and run the local host url like 
 
 http://url-shortner-in-php-by-swapnil:81/
 
