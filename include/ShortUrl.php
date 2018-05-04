@@ -2,12 +2,6 @@
 /**
  * This class provides all of the functionality needed to create (encode) and
  * decode shortened URLs.
- *
- * @author Alex Fraundorf - AffordableWebSitePublishing.com LLC
- *
- * Give credit where it is due: Although this package is significantly
- * different, it was orignally inspired by the URL shortener written by
- * Brian Cray - http://briancray.com/posts/free-php-url-shortener-script
  */
 class ShortUrl
 {
